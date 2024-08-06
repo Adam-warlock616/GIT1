@@ -1,3 +1,3 @@
 console.log("config.js")
 
-console.js("version 3")
+console.js("version 4")
