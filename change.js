@@ -1,3 +1,3 @@
 console.log("change.js")
 
-console.js("version 4")
+console.js("version 5")
